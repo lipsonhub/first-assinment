@@ -1,0 +1,47 @@
+
+
+.open-sans {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    /* "wdth" 100; */}
+
+    /* banner-style */
+    *{
+        margin:1px;
+        padding:0px;
+    }
+
+    .banner{
+        width:1280px;
+        height:460px;
+        background-color:#C6E4D6 ;
+        border-radius: 10px;
+        display:flex;
+        justify-content: space-between;
+        padding:80px 100px;
+    }
+    .banner-welcome{
+        font-size: 24px;
+        color:#0E0E0E;
+
+    }
+    .banner-title{
+        font-weight: bold;
+        color:#0E0E0E;
+
+
+    }
+    .banner-content{
+        align-content: center;
+
+    }
+    .btn{
+        background-color:#006A50;
+        padding: 17px 34px;
+        border-radius:5px;
+        color:white;
+
+    }
