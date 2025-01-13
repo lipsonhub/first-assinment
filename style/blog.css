@@ -22,6 +22,7 @@
         display:flex;
         justify-content: space-between;
         padding:80px 100px;
+        margin-bottom: 30px;
     }
     .banner-welcome{
         font-size: 24px;
@@ -44,4 +45,79 @@
         border-radius:5px;
         color:white;
 
+    }
+    /* the-vision-of-future */
+.future{
+    background-color: #548ff586;
+    height: 400px;
+    /* margin-top:30px; */
+    margin-bottom: 30px;
+}
+
+    .future-container{
+        width:1500px;
+        height:280px;
+        display:flex;
+        gap:40px;
+        /* padding:30px; */
+        box-shadow:0px 6px 50px #4B6257;
+        margin-top:30px
+    }
+    .content1{
+        background-color:#B4CDF7;
+        padding:32px;
+        border-radius: 5px;
+        width:359px;
+
+    }
+    .content-btn1{
+        background-color: #5490F5;
+        color:rgb(187, 163, 163);
+        border-radius:5px ;
+        padding:11px 20px;
+        margin-top:24px;
+    }
+    .content2{
+        background-color:#FFF7DF ;
+        padding:32px;
+        border-radius: 5px;
+        width:390px;
+
+    }
+    .content-btn2{
+        background-color: #158955;
+        color:white;
+        padding: 11px 20px;
+        border-radius: 5px;
+        margin-top: 24px;
+        
+    }
+    .content3{
+        background-color: #eab4e2;
+        padding: 32px;
+        border-radius: 5px;
+        width:411px;
+    }
+    .content-btn3{
+        background-color: #45b80f;
+        color:white;
+        padding: 11px 20px;
+        border-radius: 5px;
+        margin-top: 24px;
+    }
+    /* Recent-news-box1 */
+    .box1{
+        background-color:rgb(234, 216, 216) ;
+        border-radius: 5px;
+        display:flex;
+        justify-content:space-around;
+        padding:56px 54px;
+        margin-top: 32px;
+    }
+    .box1-btn{
+        background-color: #5490F5;
+        color:white;
+        padding: 11px 20px;
+        border-radius: 5px;
+        margin-top: 20px;
     }
