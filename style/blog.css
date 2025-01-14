@@ -107,17 +107,27 @@
     }
     /* Recent-news-box1 */
     .box1{
-        background-color:rgb(234, 216, 216) ;
+        background-color:rgb(245, 241, 241) ;
         border-radius: 5px;
         display:flex;
         justify-content:space-around;
         padding:56px 54px;
         margin-top: 32px;
     }
+
     .box1-btn{
         background-color: #5490F5;
         color:white;
         padding: 11px 20px;
         border-radius: 5px;
         margin-top: 20px;
+    }
+
+    .box2{
+        background-color:rgb(235, 229, 229) ;
+        border-radius: 5px;
+        display:flex;
+        justify-content:space-around;
+        padding:56px 54px;
+        margin-top: 32px;
     }
